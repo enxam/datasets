@@ -1,0 +1,25 @@
+﻿Attribute,Name,Filter (unsupervised),Bins
+25,alcpd,MergeManyValues,9-13
+26,cigpy,MergeManyValues,4-13
+30,IntNorRat,MergeTwoValues,"6,7"
+,,MergeManyValues,10-13
+31,Alp,MergeTwoValues,"3,4"
+,,MergeManyValues,5-13
+37,Bil_tot,MergeTwoValues,"4,5"
+,,MergeManyValues,6-8
+,,MergeManyValues,9-13
+38,Ala,MergeManyValues,8-13
+39,Aspa,MergeManyValues,11-13
+40,Gam,MergeManyValues,10-13
+41,Alk,MergeManyValues,11-13
+41,Prot,MergeManyValues,2-4
+,,MergeManyValues,5-7
+,,MergeManyValues,8-10
+,,MergeManyValues,11-13
+43,Crea,MergeTwoValues,"7,8"
+,,MergeTwoValues,"9,10"
+,,MergeTwoValues,"11,12"
+46,Bil_direct,MergeTwoValues,"3,4"
+,,MergeManyValues,5-8
+,,MergeManyValues,9-13
+49,Fer,MergeManyValues,10-13
