@@ -1,0 +1,51 @@
+﻿Attribute,Value
+Gen,1
+Sym,0
+Alc,1
+HepB_Sur,0
+HepB_Ag,0
+HepB_Core,1
+HepC,0
+Cir,1
+End,0
+Smo,1
+Dia,0
+Obe,0
+Hem,0
+Art,0
+CRen,1
+HIV,0
+Non,0
+EVar,1
+Spl,1
+PHyp,0
+Thr,1
+LMet,0
+Rad,1
+Agedia,59
+Alcpd,80
+cigpy,40
+Sta,1.2
+Encdeg,1
+Ascdeg,2
+ IntNorRat,1.55
+ Alp,90563
+ Hae,10.85
+ MCorVol,80.72
+ Leu,4.9
+Plat,293
+Alb,2.78
+Bil_total,4.5
+Ala,121
+Aspa,26.6
+Gam,270
+Alk,321
+Prot,5.6
+Crea,0.615
+NNod,3
+dnod,3.5
+Bil_direct,3.6
+Iro,114
+Oxy,32
+Fer,456
+Class,1
