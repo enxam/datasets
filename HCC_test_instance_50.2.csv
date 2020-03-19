@@ -1,0 +1,14 @@
+﻿Attribute,Value,Attribute,Value,Attribute,Value,Attribute,Value
+Gen,1,Art,0,Sta,1.2,Gam,270
+Sym,0,CRen,1,Encdeg,1,Alk,321
+Alc,1,HIV,0,Ascdeg,2,Prot,5.6
+HepB_Sur,0,Non,0,IntNorRat,1.55,Crea,0.615
+HepB_Ag,0,EVar,1,Alp,90563,NNod,3
+HepB_Core,1,Spl,1,Hae,10.85,dnod,3.5
+HepC,0,PHyp,0,MCorVol,80.72,Bil_direct,3.6
+Cir,1,Thr,1,Leu,4.9,Iro,114
+End,0,LMet,0,Plat,293,Oxy,32
+Smo,1,Rad,1,Alb,2.78,Fer,456
+Dia,0,Agedia,59,Bil_total,4.5,Class,1
+Obe,0,Alcpd,80,Ala,121,,
+Hem,0,cigpy,40,Aspa,26.6,,
